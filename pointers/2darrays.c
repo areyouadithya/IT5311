@@ -8,4 +8,4 @@ void main(){
     printf("%d\n",*arr);
     printf("%d\n",&arr[0]); 
     //all of the above give the same
-}
+    }
